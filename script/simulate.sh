@@ -1,0 +1,1 @@
+python python/simulate.py $1 $2
